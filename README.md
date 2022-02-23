@@ -7,8 +7,6 @@ CONTENT
 4. Medical subject headings (MeSH)
 5. Biological Named-entity recognition (BioNER)
 6. Building & Visualising Graphs with Networkx & Pyvis
-6.1. Networkx
-6.2. Pyvis
 7. Abstract as Network Graph
 8. MeSH terms as Network Graph
 9. Conclusion
